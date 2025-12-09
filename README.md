@@ -1,4 +1,4 @@
-# ☀️ Análise Wavelet Contínua (CWT) de Dados VTEC - Múltiplas Estações
+# 🌊 Análise Wavelet Contínua (CWT) de Dados VTEC - Múltiplas Estações
 
 Este repositório contém scripts MATLAB desenvolvidos para realizar a **Análise Wavelet Contínua (CWT)** de séries temporais de **VTEC (Vertical Total Electron Content)** provenientes das seguintes estações:
 
