@@ -86,7 +86,7 @@ cd Analise_CWT_VTEC_2017
 4. Execute o script:
 
 ```matlab
-run codigo_cwt_vtec.m
+run wav_vtec.m
 ```
 
 ---
