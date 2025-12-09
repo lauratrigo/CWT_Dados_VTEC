@@ -108,35 +108,35 @@ Os arquivos `.txt` contêm séries temporais de **VTEC** com as seguintes caract
 
 ### Estação SALU
 
-![CWT VTEC SALU](images/SALU_VTEC.png)
+![CWT VTEC SALU](images/SALU.png)
 
 ### Estação RSPE
 
-![CWT VTEC RSPE](images/RSPE_VTEC.png)
+![CWT VTEC RSPE](images/RSPE.png)
 
 ### Estação ROSA
 
-![CWT VTEC ROSA](images/ROSA_VTEC.png)
+![CWT VTEC ROSA](images/ROSA.png)
 
 ### Estação PASM
 
-![CWT VTEC PASM](images/PASM_VTEC.png)
+![CWT VTEC PASM](images/PASM.png)
 
 ### Estação ONRJ
 
-![CWT VTEC ONRJ](images/ONRJ_VTEC.png)
+![CWT VTEC ONRJ](images/ONRJ.png)
 
 ### Estação MTGA
 
-![CWT VTEC MTGA](images/MTGA_VTEC.png)
+![CWT VTEC MTGA](images/MTGA.png)
 
 ### Estação SJSP
 
-![CWT VTEC SJSP](images/SJSP_VTEC.png)
+![CWT VTEC SJSP](images/SJSP.png)
 
 ### Estação APLJ
 
-![CWT VTEC APLJ](images/APLJ_VTEC.png)
+![CWT VTEC APLJ](images/APLJ.png)
 
 --- 
 
